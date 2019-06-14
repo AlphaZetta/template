@@ -1,3 +1,4 @@
+<meta rel="icon" content="/favicon.png">
 ## Professional Websites
 
 How do you make a professional website, you may ask. Well, I know and I will teach you.
